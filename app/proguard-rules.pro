@@ -1,0 +1,2 @@
+-keep class com.jadugar.calculator.** { *; }
+-keepattributes *Annotation*

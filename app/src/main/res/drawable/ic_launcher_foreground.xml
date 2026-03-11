@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateX="16" android:translateY="16">
+        <!-- Magic wand body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M60,20 L66,26 L30,62 L24,56 Z" />
+        <!-- Wand tip star -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M66,14 L68,20 L74,18 L70,24 L76,26 L70,28 L72,34 L66,30 L60,34 L62,28 L56,26 L62,24 L58,18 L64,20 Z" />
+        <!-- Sparkles -->
+        <path
+            android:fillColor="#B06AFF"
+            android:pathData="M20,30 L21,33 L24,34 L21,35 L20,38 L19,35 L16,34 L19,33 Z" />
+        <path
+            android:fillColor="#6ABAFF"
+            android:pathData="M10,50 L11,52 L13,53 L11,54 L10,56 L9,54 L7,53 L9,52 Z" />
+        <path
+            android:fillColor="#B06AFF"
+            android:pathData="M55,55 L56,57 L58,58 L56,59 L55,61 L54,59 L52,58 L54,57 Z" />
+    </group>
+</vector>
